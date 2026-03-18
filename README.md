@@ -16,12 +16,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=true&username=Apil99-code" height="180" alt="languages graph"/>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Apil99-code&label=Profile%20views&color=0e75b6&style=flat" alt="Rachit" /> 
+  <img src="https://komarev.com/ghpvc/?username=Apil99-code&label=Profile%20views&color=0e75b6&style=flat" alt="Apil" /> 
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Apil99-code" alt="Rachit" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Apil99-code" alt="Apil" />
   </a>
 </p>
 
